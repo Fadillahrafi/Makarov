@@ -1,0 +1,14 @@
+<html>
+<head>
+	<title> Sistem Informasi </title>
+</head>
+<body background="SMKPPA2.jpg">
+<center>
+	<h1>Sistem Informasi Sekolah</h1><br>
+	<a href="Informasi Jurusan Sekolah"><button><h3>Informasi Sekolah</button></h3></a>
+	<a href="Informasi Sekolah"><button><h3>Informasi Jurusan Sekolah</button></h3></a>
+	<a href="Informasi Sarana dan Prasarana"><button><h3>Informasi Sarana dan Prasarana</button></h3></a>
+</center>
+</body>
+</html>
+	
